@@ -19,7 +19,7 @@
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
 
 
-Hi, I'm Al-Amin Shamim. I'm a WordPress Developer who loves making websites. I've been working with web technologies for over 4 years. I focus on creating sites that look good and work well.
+Hi, I'm Al-Amin Shamim. I'm a WordPress Developer who loves creating custom themes and plugins. I've been working with web technologies for over 4 years. I focus on creating sites that look good and work well.
 
 My Skills:
 
