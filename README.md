@@ -6,6 +6,12 @@
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
 ![WordPress](https://img.shields.io/badge/Wordpress-21759B?style=flat-square&logo=wordpress&logoColor=white)
 ![Elementor](https://img.shields.io/badge/Elementor-9146FF?style=flat-square&logo=elementor&logoColor=white)
+![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=flat-square&logo=woocommerce&logoColor=white)
+![Divi](https://img.shields.io/badge/Divi-552D7A?style=flat-square&logo=divi&logoColor=white)
+![Gutenberg](https://img.shields.io/badge/Gutenberg-00A0D2?style=flat-square&logo=gutenberg&logoColor=white)
+![WPBakery](https://img.shields.io/badge/WPBakery-0073AA?style=flat-square&logo=wpbakery&logoColor=white)
+![ACF](https://img.shields.io/badge/ACF-4E7AB5?style=flat-square&logo=advanced-custom-fields&logoColor=white)
+![Crocoblock](https://img.shields.io/badge/Crocoblock-21C87A?style=flat-square&logo=crocoblock&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
@@ -13,31 +19,33 @@
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
 
 
-I'm Al-Amin Shamim, a dedicated WordPress Developer passionate about transforming ideas into extraordinary web experiences. With over 4 years of hands-on experience in web technologies, I specialize in crafting websites that seamlessly blend stunning design with robust functionality.
+Hi, I'm Al-Amin Shamim. I'm a WordPress Developer who loves making websites. I've been working with web technologies for over 4 years. I focus on creating sites that look good and work well.
 
-🚀 My Skillset:
+My Skills:
 
-- HTML5/CSS3: Crafting engaging user interfaces.
-- PHP/Javascript/jQuery/Ajax: Powering interactive and dynamic web elements.
-- Bootstrap: Creating responsive and visually appealing designs.
-- WordPress Development: Custom themes, plugins, and comprehensive solutions.
-- Elementor: Custom widget/addons development for unique layouts.
-- WordPress CMS: Expertise in Themes, Custom Post Types, and optimization for peak performance.
-- WordPress Page Templates: Tailored for a user-friendly experience.
-- WooCommerce: Templates for captivating online stores.
-- Responsive Design: Ensuring a consistent experience across devices.
-- Page Builders: Integration of powerful tools like Elementor, Divi, and WPBakery.
-- Crocoblock, Jet Engine, and ACF: Leveraging for dynamic content.
+- HTML5/CSS3: I design attractive user interfaces.
+- PHP/JavaScript/jQuery/Ajax: I add interactive features to websites.
+- Bootstrap: I make designs that are mobile-friendly.
+- WordPress Development: I create custom themes and plugins.
+- Elementor: I build custom widgets and addons.
+- Gutenberg Editor: I create custom blocks and layouts using Gutenberg.
+- WordPress CMS: I know themes, custom post types, and how to make sites fast.
+- WordPress Page Templates: I create easy-to-use templates.
+- WooCommerce: I design online store templates.
+- Responsive Design: I make sure sites look good on all devices.
+- Page Builders: I work with tools like Elementor, Divi, and WPBakery.
+- Crocoblock, Jet Engine, and ACF: I use these for dynamic content.
+- SEO: I optimize websites to rank better in search engines.
+- Speed Optimization: I make websites load faster.
+- Security: I ensure websites are secure and protected.
 
+How I Work:
 
-🛠️ How I Work:
+I see development like a toolbox. I pick the right tools for each job. I can build any custom WordPress site and make it faster and more secure. I focus on good design, functionality, and performance.
 
-I approach development as if it's a toolbox, carefully selecting the right skills to bring your website ideas to life. Whether it's creating captivating online stores with WooCommerce or optimizing WordPress sites for peak performance, I'm committed to delivering top-notch design and functionality.
+Let's Connect:
 
-🌐 Let's Connect:
-
-If you're looking for a dedicated WordPress Developer to elevate your web projects, I'm here to collaborate. Let's create something amazing together!
-
+If you need a WordPress Developer to help with your web projects, I’d love to work with you. Let's create something great together!
 
 ### Where to find me
 
